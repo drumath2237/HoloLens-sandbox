@@ -550,11 +550,11 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: Template_3D
   metroPackageVersion: 
-  metroCertificatePath: 
+  metroCertificatePath: D:\kaitoFolder\programs\HoloLens-sandbox\Assets\WSATestCertificate.pfx
   metroCertificatePassword: 
-  metroCertificateSubject: 
-  metroCertificateIssuer: 
-  metroCertificateNotAfter: 0000000000000000
+  metroCertificateSubject: DefaultCompany
+  metroCertificateIssuer: DefaultCompany
+  metroCertificateNotAfter: 80a6c374416dd701
   metroApplicationDescription: Template_3D
   wsaImages: {}
   metroTileShortName: 
@@ -574,6 +574,7 @@ PlayerSettings:
     WindowsStoreApps:
       InternetClient: True
       Microphone: True
+      SpatialPerception: True
   metroTargetDeviceFamilies: {}
   metroFTAName: 
   metroFTAFileTypes: []
